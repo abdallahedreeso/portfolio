@@ -11,12 +11,12 @@
 
 ### Screenshot
 
-![Desktop Preview](./images/Screenshot.png)
+![Desktop Preview](./assets/img/Screenshot.png)
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (`https://github.com/abdallahedreeso/portfolio`)
+- Live Site URL: (`https://portfolio-two-rho-51.vercel.app/`)
 
 ## My process
 
